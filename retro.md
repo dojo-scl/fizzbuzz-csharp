@@ -19,3 +19,4 @@ Fransa, Ignacio y Gustavo
  2. Utilizar la pizarra para algoritmo (cuidado para no romper con TDD)
  3. Avanzar en el entedimiento de las diferencias entre debuggear y hacer TDD
  4. Interiorizarse más con la sintaxis de C#
+ 5. Mover a GitHub
